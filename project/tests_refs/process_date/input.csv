@@ -1,0 +1,11 @@
+reimbursement_rate,marketing_authorization_date,administrative_status_Présentation active,marketing_status_Déclaration d'arrêt de commercialisation,marketing_status_Déclaration de commercialisation,approved_for_hospital_use_non,approved_for_hospital_use_oui,marketing_authorization_status_Autorisation active,marketing_authorization_process_Procédure centralisée,marketing_authorization_process_Procédure de reconnaissance mutuelle,marketing_authorization_process_Procédure décentralisée,marketing_authorization_process_Procédure nationale,marketing_declaration_date_year
+0.65,20140101,1,0,1,0,1,1,0,0,1,0,2014
+0.65,20090101,1,0,1,0,1,1,0,1,0,0,2013
+0.65,19960101,1,0,1,0,1,1,0,0,0,1,2000
+0.65,20040101,1,0,1,0,1,1,0,0,0,1,2005
+1.0,20100101,1,1,0,1,0,1,0,0,0,1,2015
+1.0,20000101,1,0,1,0,1,1,0,0,0,1,2001
+1.0,20010101,1,0,1,0,1,1,1,0,0,0,2015
+0.65,20060101,1,0,1,0,1,1,0,1,0,0,2006
+0.65,20020101,1,1,0,0,1,1,0,0,0,1,2013
+0.65,20120101,1,0,1,1,0,1,0,0,0,1,2015
